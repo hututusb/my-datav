@@ -58,7 +58,7 @@ npm install -g @vue/cli
 
 ## 启动项目
 ```sh
-npm run serve
+npm run dev 
 ```
 
 
