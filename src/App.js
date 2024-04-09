@@ -790,7 +790,7 @@ class App extends Component {
         <header className="header_main">
           <div className="left_bg"></div>
           <div className="right_bg"></div>
-          <h3>胡事成数据平台</h3>
+          <h3>数据平台</h3>
         </header>
         <div className="wrapper">
           <div className="container-fluid">
